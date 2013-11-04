@@ -10,7 +10,7 @@ p
 margin-bottom:1.25em;
 }
 
-.header {
+#header {
 	padding-top:50px;
 	padding-bottom:50px;
 	padding-right:50px;
@@ -20,13 +20,13 @@ margin-bottom:1.25em;
 	border-color:red;
 }
 
-.links {
+#links {
 	border-style:solid;
 	border-width:medium;
 	border-color:black;
 }
 
-h2.links{
+h2#links{
 	padding-top:10px;
 	padding-bottom:10px;
 	padding-right:20px;
