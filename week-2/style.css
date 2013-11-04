@@ -7,47 +7,47 @@ body(
 #header {
 	border-style:solid;
 	border-width:medium;
-	border-color:red;
+	border-color:red
 }
 
 #links {
 	border-style:solid;
 	border-width:medium;
-	border-color:blue;
+	border-color:blue
 }
 
 #blogs {
 	border-style:solid;
 	border-width:medium;
-	border-color:black;
+	border-color:black
 }
 
 .one {
 	border-style:solid;
 	border-width:medium;
-	border-color:green;
+	border-color:green
 }
 
 .two {
 	border-style:solid;
 	border-width:medium;
-	border-color:pink;
+	border-color:pink
 }
 
 .three {
 	border-style:solid;
 	border-width:medium;
-	border-color:orange;
+	border-color:orange
 }
 
 .four {
 	border-style:solid;
 	border-width:medium;
-	border-color:purple;
+	border-color:purple
 }
 
 .five {
 	border-style:solid;
 	border-width:medium;
-	border-color:white;
+	border-color:white
 }
