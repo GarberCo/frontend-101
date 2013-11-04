@@ -1,53 +1,49 @@
 style.css
 
-body(
-
-)
-
-#header {
+p#header {
 	border-style:solid;
 	border-width:medium;
-	border-color:red
+	border-color:red;
 }
 
-#links {
+p#links {
 	border-style:solid;
 	border-width:medium;
-	border-color:blue
+	border-color:blue;
 }
 
-#blogs {
+p#blogs {
 	border-style:solid;
 	border-width:medium;
-	border-color:black
+	border-color:black;
 }
 
-.one {
+p.one {
 	border-style:solid;
 	border-width:medium;
-	border-color:green
+	border-color:green;
 }
 
-.two {
+p.two {
 	border-style:solid;
 	border-width:medium;
-	border-color:pink
+	border-color:pink;
 }
 
-.three {
+p.three {
 	border-style:solid;
 	border-width:medium;
-	border-color:orange
+	border-color:orange;
 }
 
-.four {
+p.four {
 	border-style:solid;
 	border-width:medium;
-	border-color:purple
+	border-color:purple;
 }
 
-.five {
+p.five {
 	border-style:solid;
 	border-width:medium;
-	border-color:white
+	border-color:white;
 }
