@@ -1,6 +1,20 @@
 style.css
 
+/* apply a natural box layout model to all elements */
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+ }
+
+p 
+{
+margin-bottom:1.25em;
+}
+
 .header {
+	padding-top:50px;
+	padding-bottom:50px;
+	padding-right:50px;
+	padding-left:50px;
 	border-style:solid;
 	border-width:medium;
 	border-color:red;
@@ -9,41 +23,59 @@ style.css
 .links {
 	border-style:solid;
 	border-width:medium;
-	border-color:blue;
-}
-
-.blogs {
-	border-style:solid;
-	border-width:medium;
 	border-color:black;
 }
 
-#one {
+h2.links{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:20px;
+	padding-left:20px;	
+}
+
+.blog {
+	margin-right:25%;
+	border-style:solid;
+	border-width:medium;
+	border-color:blue;
+}
+
+h6.blog{
+	padding-bottom:20px;
+}
+
+.blogpost {
+	padding-top:40px;
+	padding-bottom:40px;
+	padding-right:20px;
+	padding-left:20px;	
 	border-style:solid;
 	border-width:medium;
 	border-color:green;
 }
 
-#two {
-	border-style:solid;
-	border-width:medium;
-	border-color:pink;
+img.#blogone {
+	padding-left:20px;	
 }
 
-#three {
-	border-style:solid;
-	border-width:medium;
-	border-color:orange;
+img.#blogtwo {
+	padding-right:20px;	
 }
 
-#four {
-	border-style:solid;
-	border-width:medium;
-	border-color:purple;
+img.#blogthree {
+	padding-left:20px;	
 }
 
-#five {
-	border-style:solid;
-	border-width:medium;
-	border-color:white;
+img.#blogfour {
+	padding-right:20px;	
 }
+
+img.#blogfive {
+	padding-left:20px;	
+}
+
+img.blogpost {
+ 	border-radius: 25px;
+ 	border: 3px solid #D3D3D3;
+}
+
