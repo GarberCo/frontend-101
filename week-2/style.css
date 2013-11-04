@@ -1,57 +1,53 @@
 style.css
 
-#header 
-{
-border-style:solid;
-border-width:medium;
-border-color:red;
+body(
+
+)
+
+#header {
+	border-style:solid;
+	border-width:medium;
+	border-color:red;
 }
 
-#links
-{
-border-style:solid;
-border-width:medium;
-border-color:blue;
+#links {
+	border-style:solid;
+	border-width:medium;
+	border-color:blue;
 }
 
-#blogs
-{
-border-style:solid;
-border-width:medium;
-border-color:black;
+#blogs {
+	border-style:solid;
+	border-width:medium;
+	border-color:black;
 }
 
-.one
-{
-border-style:solid;
-border-width:medium;
-border-color:green;
+.one {
+	border-style:solid;
+	border-width:medium;
+	border-color:green;
 }
 
-.two
-{
-border-style:solid;
-border-width:medium;
-border-color:pink;
+.two {
+	border-style:solid;
+	border-width:medium;
+	border-color:pink;
 }
 
-.three
-{
-border-style:solid;
-border-width:medium;
-border-color:orange;
+.three {
+	border-style:solid;
+	border-width:medium;
+	border-color:orange;
 }
 
-.four
-{
-border-style:solid;
-border-width:medium;
-border-color:purple;
+.four {
+	border-style:solid;
+	border-width:medium;
+	border-color:purple;
 }
 
-.five
-{
-border-style:solid;
-border-width:medium;
-border-color:white;
+.five {
+	border-style:solid;
+	border-width:medium;
+	border-color:white;
 }
