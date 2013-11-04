@@ -1,48 +1,48 @@
 style.css
 
-p#header {
+.header {
 	border-style:solid;
 	border-width:medium;
 	border-color:red;
 }
 
-p#links {
+.links {
 	border-style:solid;
 	border-width:medium;
 	border-color:blue;
 }
 
-p#blogs {
+.blogs {
 	border-style:solid;
 	border-width:medium;
 	border-color:black;
 }
 
-p.one {
+#one {
 	border-style:solid;
 	border-width:medium;
 	border-color:green;
 }
 
-p.two {
+#two {
 	border-style:solid;
 	border-width:medium;
 	border-color:pink;
 }
 
-p.three {
+#three {
 	border-style:solid;
 	border-width:medium;
 	border-color:orange;
 }
 
-p.four {
+#four {
 	border-style:solid;
 	border-width:medium;
 	border-color:purple;
 }
 
-p.five {
+#five {
 	border-style:solid;
 	border-width:medium;
 	border-color:white;
