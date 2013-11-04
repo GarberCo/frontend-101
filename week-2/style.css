@@ -5,6 +5,15 @@ style.css
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
  }
 
+body
+{
+	background-color:gainsboro;
+	font-family:"Helvetica"
+	font-size:16px;
+	line-height:1.6%;
+	font-weight:200;
+}
+
 p 
 {
 margin-bottom:1.25em;
