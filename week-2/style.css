@@ -8,7 +8,7 @@ style.css
 body
 {
 	background-color:gainsboro;
-	font-family:"Helvetica";
+	font-family:"Helvetica", "arial", "sans-serif";
 	font-size:16px;
 	line-height:1.6;
 	font-weight:200;
@@ -27,6 +27,12 @@ margin-bottom:1.25em;
 	border-style:solid;
 	border-width:medium;
 	border-color:red;
+	height:320px;
+	width:100%;
+	background-image:http://placekitten.com/g/1400/800('kitten.jpg');
+	background-repeat:no-repeat;
+	background-position:center; 
+	vertical-align:top;
 }
 
 .links {
