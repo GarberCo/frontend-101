@@ -19,7 +19,7 @@ p
 margin-bottom:1.25em;
 }
 
-#header {
+.header {
 	padding-top:50px;
 	padding-bottom:50px;
 	padding-right:50px;
@@ -29,13 +29,13 @@ margin-bottom:1.25em;
 	border-color:red;
 }
 
-#links {
+.links {
 	border-style:solid;
 	border-width:medium;
 	border-color:black;
 }
 
-h2#links{
+.links h2{
 	padding-top:10px;
 	padding-bottom:10px;
 	padding-right:20px;
@@ -49,7 +49,7 @@ h2#links{
 	border-color:blue;
 }
 
-h6.blog{
+.blog h6{
 	padding-bottom:20px;
 }
 
@@ -63,29 +63,15 @@ h6.blog{
 	border-color:green;
 }
 
-.blogimg {
+.blogimg nth-child(odd){
+ 	border-radius: 25px;
+ 	border: 3px solid #D3D3D3;	
+ 	padding-left:20px;	
+}
+
+.blogimg nth-child(even){
  	border-radius: 25px;
  	border: 3px solid #D3D3D3;
+ 	padding-right:20px;	
 }
-
-#img1 {
-	padding-left:20px;	
-}
-
-#img2 {
-	padding-right:20px;	
-}
-
-#img3 {
-	padding-left:20px;	
-}
-
-#img4 {
-	padding-right:20px;	
-}
-
-#img5 {
-	padding-left:20px;	
-}
-
 
