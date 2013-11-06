@@ -67,13 +67,13 @@ margin-bottom:1.25em;
 	border-color:green;
 }
 
-.blogimg .blogpost:nth-child(odd){
+.blogpost:nth-child(odd).blogimg {
  	border-radius: 25px;
  	border: 3px solid #D3D3D3;	
  	padding-left:20px;	
 }
 
-.blogimg .blogpost:nth-child(even){
+.blogpost:nth-child(even).blogimg {
  	border-radius: 25px;
  	border: 3px solid #D3D3D3;
  	padding-right:20px;	
