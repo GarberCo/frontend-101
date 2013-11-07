@@ -29,6 +29,9 @@ margin-bottom:1.25em;
 	border-color:red;
 	height:320px;
 	width:100%;
+}
+
+.header {
 	background-image:http://placekitten.com/g/1400/800;('kitten.gif')
 	background-repeat:no-repeat;
 	background-position:center; 
