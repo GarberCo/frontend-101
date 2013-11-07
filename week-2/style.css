@@ -16,7 +16,7 @@ body
 
 body
 {
-	background-image:http://placekitten.com/g/1400/800('kitten.gif');
+	background-image:http://placekitten.com/g/1400/800;
 	background-repeat:no-repeat;
 	background-position:center; 
 	vertical-align:top;
