@@ -99,6 +99,12 @@ margin-bottom:1.25em;
 	border-width:medium;
 	border-color:green;
 }
+
+.blogpost:nth-child(even) {
+ 	background-color:#f0f0f0;
+ 	border-top-color:#D3D3D3;
+}
+
 .blogpost:nth-child(odd) > .blogimg {
   	margin-left:20px;	
   	border-radius: 25px;
@@ -110,8 +116,8 @@ margin-bottom:1.25em;
  	margin-right:20px;	
   	border-radius: 25px;
  	border: 3px solid #D3D3D3;
- 	background-color:#f0f0f0;
- 	border-top-color:#D3D3D3;
 
 }
+
+
 
