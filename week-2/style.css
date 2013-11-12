@@ -31,7 +31,7 @@ margin-bottom:1.25em;
 	width:100%;
 }
 
-.header > .bg {
+.header {
 	background-image:http://placekitten.com/g/1400/800;
 	background-repeat:no-repeat;
 	background-position:center; 
