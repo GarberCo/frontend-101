@@ -55,6 +55,16 @@ margin-bottom:1.25em;
 	padding-left:0px;	
 	font-size: 14px;
 	list-style:none;
+	color:#2ba6cb;
+}
+
+.links li:link {
+	text-decoration: none;
+	color:#2ba6cb;
+}
+
+.links li:hover {
+	color:#2795b6;
 }
 
 .links h3 {
