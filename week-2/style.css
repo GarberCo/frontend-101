@@ -58,12 +58,12 @@ margin-bottom:1.25em;
 	color:#2ba6cb;
 }
 
-.links li:link {
+.links:link {
 	text-decoration: none;
 	color:#2ba6cb;
 }
 
-.links li:hover {
+.links:hover {
 	color:#2795b6;
 }
 
